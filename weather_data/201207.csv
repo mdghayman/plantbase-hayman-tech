@@ -1,0 +1,6 @@
+applicable_date,weather_state_name,min_temp,max_temp,wind_speed
+Mon 7 Dec 2020,Light Rain,1 C,5 C,2 mph
+Tue 8 Dec 2020,Heavy Cloud,2 C,5 C,3 mph
+Wed 9 Dec 2020,Light Rain,2 C,7 C,5 mph
+Thu 10 Dec 2020,Light Rain,5 C,7 C,6 mph
+Fri 11 Dec 2020,Heavy Rain,6 C,9 C,6 mph
